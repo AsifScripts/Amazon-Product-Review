@@ -1,0 +1,9 @@
+# Ignore model training script?
+# NO - Keep train_model.py tracked.
+
+# Ignore virtual environment
+venv/
+.venv/
+__pycache__/
+*.pyc
+# etc...
