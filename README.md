@@ -3,6 +3,8 @@ A simple web application that analyzes Amazon product reviews using Machine Lear
 
 Built with Python, Flask, scikit-learn, and Bootstrap 5, this project is user-friendly, lightweight, and deployable on Render.
 
+live :- https://amazon-product-review-1.onrender.com
+
 📊 Project Overview
 Input a product review.
 
